@@ -1,0 +1,2 @@
+pycryptodomex==3.14.0
+lxml==4.9.2
